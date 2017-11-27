@@ -1,0 +1,13 @@
+{
+  "name": "tatoeba",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-generate": "^2.0.0",
+    "csv-parse": "^2.0.0",
+    "csv-stringify": "^2.0.0",
+    "mp3-duration": "^1.1.0",
+    "stream-transform": "^1.0.0"
+  }
+}
